@@ -11,7 +11,7 @@ function App() {
         </p>
         <br />
         <p>
-          Website under construction
+          Website coming soon
         </p>
         <a
           className="App-link"
